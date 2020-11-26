@@ -37,7 +37,7 @@ Book.create!(
   Book.create!(
     title: "タイトル #{n}",
     memo: "サンプル #{n}",
-    author: "著者 #{n}",
+    author: "著者 #{n}"
   )
 end
 
